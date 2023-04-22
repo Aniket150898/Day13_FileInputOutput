@@ -1,0 +1,16 @@
+C:\Users\Aniket\Desktop\x\Day13_FileIO\Day13_FileIO\bin\Debug\Day13_FileIO.exe.config
+C:\Users\Aniket\Desktop\x\Day13_FileIO\Day13_FileIO\bin\Debug\Day13_FileIO.exe
+C:\Users\Aniket\Desktop\x\Day13_FileIO\Day13_FileIO\bin\Debug\Day13_FileIO.pdb
+C:\Users\Aniket\Desktop\x\Day13_FileIO\Day13_FileIO\obj\Debug\Day13_FileIO.csproj.AssemblyReference.cache
+C:\Users\Aniket\Desktop\x\Day13_FileIO\Day13_FileIO\obj\Debug\Day13_FileIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Desktop\x\Day13_FileIO\Day13_FileIO\obj\Debug\Day13_FileIO.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Desktop\x\Day13_FileIO\Day13_FileIO\obj\Debug\Day13_FileIO.exe
+C:\Users\Aniket\Desktop\x\Day13_FileIO\Day13_FileIO\obj\Debug\Day13_FileIO.pdb
+C:\Users\Aniket\Desktop\Day13\Day13_FileIO\bin\Debug\Day13_FileIO.exe.config
+C:\Users\Aniket\Desktop\Day13\Day13_FileIO\bin\Debug\Day13_FileIO.exe
+C:\Users\Aniket\Desktop\Day13\Day13_FileIO\bin\Debug\Day13_FileIO.pdb
+C:\Users\Aniket\Desktop\Day13\Day13_FileIO\obj\Debug\Day13_FileIO.csproj.AssemblyReference.cache
+C:\Users\Aniket\Desktop\Day13\Day13_FileIO\obj\Debug\Day13_FileIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aniket\Desktop\Day13\Day13_FileIO\obj\Debug\Day13_FileIO.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Desktop\Day13\Day13_FileIO\obj\Debug\Day13_FileIO.exe
+C:\Users\Aniket\Desktop\Day13\Day13_FileIO\obj\Debug\Day13_FileIO.pdb
